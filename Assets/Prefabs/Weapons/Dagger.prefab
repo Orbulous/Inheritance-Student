@@ -52,8 +52,8 @@ MonoBehaviour:
   boxCollider: {fileID: 0}
   canAttack: 1
   attackDuration: 0.2
-  attackRate: 140
-  damage: 7
+  attackRate: 120
+  damage: 5
 --- !u!61 &7772710238278302259
 BoxCollider2D:
   m_ObjectHideFlags: 0
